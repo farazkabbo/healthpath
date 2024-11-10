@@ -135,7 +135,7 @@ def home_page():
         img_back = base64.b64encode(img_file.read()).decode("utf-8")
         # st.image(f'data:image/png;base64,{img_back}', use_column_width=False)
         st.markdown(f"""<img class="back_img"  src="data:image/png;base64,{img_back}" alt="Frozen Image">""",unsafe_allow_html=True)
-    st.markdown("""<h1 class="Title">Welcome To Health Path</h1>""",unsafe_allow_html=True)
+    st.markdown("""<h1 class="Title">Welcome To Healthee</h1>""",unsafe_allow_html=True)
     
     
     
