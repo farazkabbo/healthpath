@@ -1,6 +1,6 @@
 # Diabetes Management Platform
 
-![HealthPath Presentation (1)](https://github.com/user-attachments/assets/3d4b3e6b-c6a3-442a-9b91-9936990d5332)
+
 
 ## Overview
 Our platform integrates with Continuous Glucose Monitors (CGM) to help diabetics manage their health through real-time glucose tracking, personalized insulin dosage, and AI chatbot support.
